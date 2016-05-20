@@ -1,0 +1,67 @@
+
+@font-face {font-family: "etengfont";
+  src: url('etengfont.eot?t=1463706776'); /* IE9*/
+  src: url('etengfont.eot?t=1463706776#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('etengfont.woff?t=1463706776') format('woff'), /* chrome, firefox */
+  url('etengfont.ttf?t=1463706776') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('etengfont.svg?t=1463706776#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.et {
+  font-family:"etengfont" !important;
+  font-size:20px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-et-Work-world:before { content: "\e645"; }
+.icon-etconsider:before { content: "\e644"; }
+.icon-et-Sales-statistics:before { content: "\e643"; }
+.icon-et-Stock-statistics:before { content: "\e646"; }
+.icon-et-procurement:before { content: "\e63f"; }
+.icon-et-money:before { content: "\e63e"; }
+.icon-et-The-stock-of-distribution:before { content: "\e63d"; }
+.icon-et-Workshop-inventory:before { content: "\e63b"; }
+.icon-et-The-sample-of-recipients:before { content: "\e63c"; }
+.icon-et-allot:before { content: "\e63a"; }
+.icon-et-check:before { content: "\e639"; }
+.icon-et-In-the-package:before { content: "\e637"; }
+.icon-et-use:before { content: "\e636"; }
+.icon-et-Production-line:before { content: "\e635"; }
+.icon-et-remote-control:before { content: "\e634"; }
+.icon-et-scrap:before { content: "\e633"; }
+.icon-et-sell:before { content: "\e632"; }
+.icon-et-task:before { content: "\e631"; }
+.icon-et-plan:before { content: "\e630"; }
+.icon-et-Placing-orders:before { content: "\e62f"; }
+.icon-et-gather:before { content: "\e62d"; }
+.icon-et-star:before { content: "\e62c"; }
+.icon-et-collect:before { content: "\e62b"; }
+.icon-et-retreat:before { content: "\e62a"; }
+.icon-et-indent-5:before { content: "\e627"; }
+.icon-et-board:before { content: "\e626"; }
+.icon-et-public-praise:before { content: "\e625"; }
+.icon-et-visit:before { content: "\e624"; }
+.icon-et-performance:before { content: "\e623"; }
+.icon-et-account:before { content: "\e621"; }
+.icon-et-purse:before { content: "\e61f"; }
+.icon-et-clock:before { content: "\e61e"; }
+.icon-et-connect:before { content: "\e61d"; }
+.icon-et-scan:before { content: "\e61c"; }
+.icon-et-uploading:before { content: "\e61a"; }
+.icon-et-set:before { content: "\e618"; }
+.icon-et-message:before { content: "\e617"; }
+.icon-et-more:before { content: "\e615"; }
+.icon-et-retreat1:before { content: "\e610"; }
+.icon-et-money-list:before { content: "\e60b"; }
+.icon-et-order-number:before { content: "\e60d"; }
+.icon-et-indent-4:before { content: "\e60a"; }
+.icon-et-purchase:before { content: "\e60f"; }
+.icon-et-indent-2:before { content: "\e60e"; }
+.icon-et-indent-3:before { content: "\e609"; }
+.icon-et-indent-1:before { content: "\e607"; }
+.icon-et-person:before { content: "\e606"; }
+.icon-et-card:before { content: "\e605"; }
+.icon-et-password:before { content: "\e604"; }
+.icon-et-iPhone:before { content: "\e600"; }
