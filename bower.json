@@ -1,6 +1,6 @@
 {
   "name": "ETengFont",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/zhaoyang3916/ETengFont",
   "authors": [
     "yang zhao"
@@ -11,5 +11,12 @@
   "keywords": [
     "iconfont"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
