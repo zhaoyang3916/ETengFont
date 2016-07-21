@@ -1,9 +1,9 @@
 @font-face {font-family: "etengfont";
-  src: url('etengfont.eot?t=1463990707'); /* IE9*/
-  src: url('etengfont.eot?t=1463990707#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('etengfont.woff?t=1463990707') format('woff'), /* chrome, firefox */
-  url('etengfont.ttf?t=1463990707') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('etengfont.svg?t=1463990707#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('../fonts/etengfont.eot?t=1463990707'); /* IE9*/
+  src: url('../fonts/etengfont.eot?t=1463990707#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../fonts/etengfont.woff?t=1463990707') format('woff'), /* chrome, firefox */
+  url('../fonts/etengfont.ttf?t=1463990707') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/etengfont.svg?t=1463990707#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 .et {
