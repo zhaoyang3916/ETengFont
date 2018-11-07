@@ -1,5 +1,5 @@
 ### 使用方法
-======================
+
 安装ETengFont
 ```
 bower install ETengFont
